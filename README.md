@@ -45,7 +45,7 @@
 #### Тема 2
 1. Разработка фрагмента ЭУК на платформе Canvas.
 
-[Отчет по разработке фрагмента ЭУК на платформе Canvas](https://github.com/sonyadk/elearning/blob/main/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D1%84%D1%80%D0%B0%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%20%D0%AD%D0%A3%D0%9A%20%D0%BD%D0%B0%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B5%20Canvas.docx)
+[Отчет по разработке фрагмента ЭУК на платформе Canvas](https://github.com/sonyadk/elearning/blob/main/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D1%84%D1%80%D0%B0%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%20%D0%AD%D0%A3%D0%9A%20%D0%BD%D0%B0%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B5%20Canvas.pdf)
 
 #### Тема 3
 1. Подготовка презентации по контролю и самоконтролю в ЭИОС
