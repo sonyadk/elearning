@@ -40,10 +40,12 @@
 #### Тема 1
 1. Оценка качества ЭУК и самооценка созданных ЭО
 
-[Оценка качества ЭУК и самооценка созданных ЭО](https://github.com/sonyadk/elearning/blob/main/%D0%9E%D1%86%D0%B5%D0%BD%D0%BA%D0%B0%20%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%AD%D0%A3%D0%9A%20%D0%B8%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B0%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%AD%D0%9E.docx)
+[Отчет по оценке качества ЭУК и самооценке созданных ЭО](https://github.com/sonyadk/elearning/blob/main/%D0%9E%D1%86%D0%B5%D0%BD%D0%BA%D0%B0%20%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%AD%D0%A3%D0%9A%20%D0%B8%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B0%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%AD%D0%9E.docx)
 
 #### Тема 2
 1. Разработка фрагмента ЭУК на платформе Canvas.
+
+[Отчет по разработке фрагмента ЭУК на платформе Canvas](https://github.com/sonyadk/elearning/blob/main/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D1%84%D1%80%D0%B0%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%20%D0%AD%D0%A3%D0%9A%20%D0%BD%D0%B0%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B5%20Canvas.docx)
 
 #### Тема 3
 1. Подготовка презентации по контролю и самоконтролю в ЭИОС
